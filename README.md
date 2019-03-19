@@ -14,5 +14,6 @@ El repositorio consta de:
 # Resultado final
 Modo 1 del programa: 
 ![alt text](https://github.com/Crisyaki/ProcessingCamaraRGB/blob/master/4PantallasRGB.gif)
+
 Modo 2 del programa:
 ![alt text](https://github.com/Crisyaki/ProcessingCamaraRGB/blob/master/SlitScan.gif)
